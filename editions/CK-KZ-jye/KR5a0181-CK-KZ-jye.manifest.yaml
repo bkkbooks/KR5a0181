@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5a0181_000-CK-KZ-jye.yaml, hash: 'sha256:f1a4534380b84f52290ef42864f6fe609e5f840805920ec05fd9d60af3196455'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0181_000-CK-KZ-jye.markers.yaml, hash: 'sha256:31f8fabe39fd563ab94aad4424e89eb2f7ae98940df6f26c469102e875c87280'}
+  - {seq: 0, role: markers, filename: assets/KR5a0181_000-CK-KZ-jye.markers.yaml, hash: 'sha256:3e48c58685804acac3f755208ee9e8c30c53ab8f3ff40d83d6021a711e83032d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,4 +36,4 @@ table_of_contents:
   label: 虛皇天尊初眞十戒文
   type: section
   level: 1
-hash: sha256:0e393b624a7230f2ace51420092c88ebca1de85f249877fdb3c93ee032aad6fc
+hash: sha256:d7efdb029624104f0e5b0dca9ab67639f8a516aae7718e08b9faa89b66a4d037
